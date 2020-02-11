@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Synchronoss</string>
+    <string name="network_error_msg">No internet available!</string>
+</resources>
